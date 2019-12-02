@@ -12,6 +12,7 @@ Run Mongo Shell commands in Docker.
 - mongorestore
 - mongostat
 - mongotop  
+- migrate (custom migration tool)
 
 ## What's not included
 
